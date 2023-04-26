@@ -3,7 +3,7 @@ import './footer.css';
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>Thanks for visiting! You can contact me via my email by clicking <div onClick={(e) => {window.location.href ='mailto:TitusESP@gmail.com';}}>here</div></div>
   )
 }
 
