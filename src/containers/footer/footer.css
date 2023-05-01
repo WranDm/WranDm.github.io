@@ -1,0 +1,16 @@
+.pointer {
+    cursor: pointer;
+}
+
+.pointer:hover {
+    color: var(--color-text);
+}
+
+.footer {
+    flex: 1;
+    
+    background-color: #260c4b;
+    color: #fff;
+
+    padding: 1.5rem 0 1.5rem 1rem;
+}

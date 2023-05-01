@@ -3,7 +3,7 @@ import './footer.css';
 
 const Footer = () => {
   return (
-    <div>Thanks for visiting! You can contact me via my email by clicking <div onClick={(e) => {window.location.href ='mailto:TitusESP@gmail.com';}}>here</div></div>
+    <div className="footer">Thanks for visiting! You can contact me via my email by clicking <u><strong><a className="pointer" onClick={(e) => {window.location.href ='mailto:TitusESP@gmail.com';}}>HERE</a></strong></u>.</div>
   )
 }
 

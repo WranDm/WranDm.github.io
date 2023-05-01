@@ -6,19 +6,7 @@
 }
 
 body {
-  background:-moz-radial-gradient(circle at 21% 21%, rgba(31, 0, 31, 1) 0%, rgba(82, 85, 166, 1) 100%);
-
-    /* safari 5.1+,chrome 10+ */
-    background:-webkit-radial-gradient(circle at 21% 21%, rgba(31, 0, 31, 1) 0%, rgba(82, 85, 166, 1) 100%);
-
-    /* opera 11.10+ */
-    background:-o-radial-gradient(circle at 21% 21%, rgba(31, 0, 31, 1) 0%, rgba(82, 85, 166, 1) 100%);
-
-    /* ie 10+ */
-    background:-ms-radial-gradient(circle at 21% 21%, rgba(31, 0, 31, 1) 0%, rgba(82, 85, 166, 1) 100%);
-
-    /* global 92%+ browsers support */
-    background:radial-gradient(circle at 21% 21%, rgba(31, 0, 31, 1) 0%, rgba(82, 85, 166, 1) 100%);
+  background-color: #260c4b;
 
 }
 
@@ -27,6 +15,8 @@ a {
   text-decoration: none;
 
 }
+
+
 
 .gradient__bg {
 
